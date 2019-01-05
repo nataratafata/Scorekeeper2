@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e7378f88e66cfa2ec9f7b31d5c57fd0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\767031f28b37250b210ccf4c0ba8ad49\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\658f5dcbc42eb78fc406962a30534349\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4a814ef5d84f9060904dd872af0be3a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2f30e94261df69e5b84e4485029e5a3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3f73974e7105bc4466215f40affbc618\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e7071a7c4cb065036de16a56e5c9999f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\79e2bab89d7208270e9d857e0277605a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a2dfa67724ca745e9ae436b391cc25d0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dba58c642d7b3deea4670787ca788628\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\61a2d31571516ef1cd12a826a7701559\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7678c907a94dd5b2da613ec7afc045e9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:19:5-46
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\767031f28b37250b210ccf4c0ba8ad49\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\767031f28b37250b210ccf4c0ba8ad49\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.scorekeeper.MainActivity
+ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e7378f88e66cfa2ec9f7b31d5c57fd0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e7378f88e66cfa2ec9f7b31d5c57fd0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\767031f28b37250b210ccf4c0ba8ad49\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\767031f28b37250b210ccf4c0ba8ad49\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\658f5dcbc42eb78fc406962a30534349\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\658f5dcbc42eb78fc406962a30534349\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4a814ef5d84f9060904dd872af0be3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4a814ef5d84f9060904dd872af0be3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2f30e94261df69e5b84e4485029e5a3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2f30e94261df69e5b84e4485029e5a3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3f73974e7105bc4466215f40affbc618\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3f73974e7105bc4466215f40affbc618\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e7071a7c4cb065036de16a56e5c9999f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e7071a7c4cb065036de16a56e5c9999f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\79e2bab89d7208270e9d857e0277605a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\79e2bab89d7208270e9d857e0277605a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a2dfa67724ca745e9ae436b391cc25d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a2dfa67724ca745e9ae436b391cc25d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dba58c642d7b3deea4670787ca788628\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dba58c642d7b3deea4670787ca788628\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\61a2d31571516ef1cd12a826a7701559\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\61a2d31571516ef1cd12a826a7701559\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7678c907a94dd5b2da613ec7afc045e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7678c907a94dd5b2da613ec7afc045e9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\android-fundamentals-apps-v2-master\android-fundamentals-apps-v2-master\Scorekeeper\app\src\main\AndroidManifest.xml
